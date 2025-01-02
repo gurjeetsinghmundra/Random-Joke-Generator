@@ -1,0 +1,35 @@
+body{
+    background-color: yellow;
+}
+
+.container{
+    height: 650px;
+    width:1200px;
+    background-color: black;
+    position: relative;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    color: white;
+    text-align: center;
+    
+}
+
+span{
+    display: block;
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 20px;
+}
+
+.btn{
+    position: absolute;
+    bottom: 30px; /* Adjust spacing as needed */
+    left: 45%;
+    width: 150px;
+    
+}
+
+.fade{
+    opacity: 1;
+    transition: opacity 1.5s;
+}
