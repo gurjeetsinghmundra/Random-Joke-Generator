@@ -3,11 +3,11 @@ body{
 }
 
 .container{
-    height: 650px;
-    width:1200px;
+    height: 530px;
+    width:1300px;
     background-color: black;
     position: relative;
-    margin-top: 20px;
+    margin-top: 15px;
     border: 1px solid #ccc;
     color: white;
     text-align: center;
@@ -17,14 +17,14 @@ body{
 span{
     display: block;
     text-align: center;
-    font-size: 100px;
+    font-size: 70px;
     margin-bottom: 20px;
 }
 
 .btn{
     position: absolute;
     bottom: 30px; /* Adjust spacing as needed */
-    left: 45%;
+    left: 44%;
     width: 150px;
     
 }
