@@ -3,11 +3,11 @@ body{
 }
 
 .container{
-    height: 530px;
+    height: 470px;
     width:1300px;
     background-color: black;
     position: relative;
-    margin-top: 15px;
+    margin-top: 12px;
     border: 1px solid #ccc;
     color: white;
     text-align: center;
